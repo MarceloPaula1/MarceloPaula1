@@ -4,7 +4,7 @@
 - 🔭 Iniciante na área de tecnologia;
 - 🌱 Estudando Python, MySQL e AWS;
 - 💻📚 Cursando Tecnologia em Banco de dados.
-- 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarceloPaula1&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=white&text_color=c9d1d9&bg_color=000000" alt="Marcelo Paula Github stats" /> 
 
